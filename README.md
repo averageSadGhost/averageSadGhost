@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🎓 **Computer Science Student** | 🖥️ **Software Engineer** | 📚 **Programming Instructor**  
+🖥️ **Software Engineer** | 📚 **Programming Instructor** | 🎓 **Computer Science Student**
 Welcome to my GitHub! I'm passionate about building efficient software and teaching others the joy of coding.  
 
 ---
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 + 🎯 Passionate about making a positive impact through technology.
 ```
 
-- 🎓 Third-year Computer Science student at Modern University for Technology & Information.  
+- 🎓 Computer Science student at Modern University for Technology & Information.  
 - 💼 Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
 - 💼 Former Software Engineer at **Elmadrasah**.   
 - 👨‍🏫 Former instructor at **04Academy** and **Google Developer Student Club**.  
