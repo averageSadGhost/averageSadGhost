@@ -13,8 +13,10 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 + 🎯 Passionate about making a positive impact through technology.
 ```
 
-- 🎓 Computer Science student at Modern University for Technology & Information.  
-- 💼 Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
+- 🎓 Computer Science student at Modern University for Technology & Information.
+- 💼 Software Engineer at **Mure Ai**, building scaleable automation platform.
+- 💼 Software Engineer at **V**, building complex systems using python.
+- 💼 Former Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
 - 💼 Former Software Engineer at **Elmadrasah**.   
 - 👨‍🏫 Former instructor at **04Academy** and **Google Developer Student Club**.  
 - 🔧 Experienced in **Python, Node.js, Flutter**, and cloud platforms.
@@ -24,7 +26,9 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 ## 💼 Work Experience  
 | **Role**                | **Organization**      | **Duration**        | **Highlights**                                    |
 |-------------------------|-----------------------|---------------------|--------------------------------------------------|
-| Backend Developer       | Cyparta               | May 2024 – Present  | Built Django systems with WebSockets & GraphQL   |
+| Software Engineer       | Mure Ai               | Sep 2025 – Present  | Bulding a scalelable automation platform   |
+| Software Engineer       | V               | Apr 2025 – Present  | Building complex systems using python   |
+| Backend Developer       | Cyparta               | May 2024 – Sep 2025  | Built Django systems with WebSockets & GraphQL   |
 | Software Engineer       | Elmadrasah            | Nov 2023 – Mar 2024 | Developed an ed-tech platform using Flutter, Python, Node.js, and Firebase |
 | Programming Instructor  | 04 Academy            | May 2023 – Aug 2024 | Taught Python, Java, C++ to university students |
 
