@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 ```
 
 - 🎓 Computer Science student at Modern University for Technology & Information.
-- 💼 Software Engineer at **Mure Ai**, building scaleable automation platform.
 - 💼 Software Engineer at **V**, building complex systems using python.
+- 💼 Former Software Engineer at **Mure Ai**, building scaleable automation platform.
 - 💼 Former Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
 - 💼 Former Software Engineer at **Elmadrasah**.   
 - 👨‍🏫 Former instructor at **04Academy** and **Google Developer Student Club**.  
