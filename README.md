@@ -26,7 +26,8 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 ## 💼 Work Experience  
 | **Role**                | **Organization**      | **Duration**        | **Highlights**                                    |
 |-------------------------|-----------------------|---------------------|--------------------------------------------------|
-| Software Engineer       | V               | Apr 2025 – Present  | Building complex systems using python   |
+| Backend Developer       | WasteHero               | Nov 2025 – Present  | Building complex systems using python   |
+| Software Engineer       | Qowa               | Apr 2025 – Present  | Building complex systems   |
 | Software Engineer       | Mure Ai               | Sep 2025 – Oct 2025 (Contract) | Bulding a scalelable automation platform   |
 | Backend Developer       | Cyparta               | May 2024 – Sep 2025  | Built Django systems with WebSockets & GraphQL   |
 | Software Engineer       | Elmadrasah            | Nov 2023 – Mar 2024 | Developed an ed-tech platform using Flutter, Python, Node.js, and Firebase |
