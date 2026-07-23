@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 - 💼 Former Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
 - 💼 Former Software Engineer at **Elmadrasah**.   
 - 👨‍🏫 Former instructor at **04Academy** and **Google Developer Student Club**.  
-- 🔧 Experienced in **Python, Node.js, Flutter**, and cloud platforms.
+- 🔧 Experienced in **Python, Node.js, GO, Flutter, React**, and cloud platforms.
 
 ---
 
