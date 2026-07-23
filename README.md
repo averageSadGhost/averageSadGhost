@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🖥️ **Software Engineer** | 📚 **Programming Instructor** | 🎓 **Computer Science Student**
+🖥️ **Software Engineer** | 📚 **Programming Instructor**
 
 Welcome to my GitHub! I'm passionate about building efficient software and teaching others the joy of coding.  
 
@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 + 🎯 Passionate about making a positive impact through technology.
 ```
 
-- 🎓 Computer Science student at Modern University for Technology & Information.
 - 💼 Software Engineer at **WasteHero**, building complex systems using python.
 - 💼 Former Software Engineer at **Qowa**, building complex systems using python.
 - 💼 Former Software Engineer at **Mure Ai**, building scaleable automation platform.
