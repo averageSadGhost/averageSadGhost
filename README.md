@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 ## 💼 Work Experience  
 | **Role**                | **Organization**      | **Duration**        | **Highlights**                                    |
 |-------------------------|-----------------------|---------------------|--------------------------------------------------|
-| Software Engineer       | Qowa               | Apr 2025 – Present (Part-Time) | Building complex systems   |
+| Senior Software Engineer       | Qowa               | Apr 2025 – Present (Part-Time) | Building complex systems   |
 | Software Engineer       | WasteHero               | Nov 2025 – Jul 2026 (Full-Time) | Building complex systems using python   |
 | Software Engineer       | Mure Ai               | Sep 2025 – Oct 2025 (Contract) | Bulding a scalelable automation platform   |
 | Backend Developer       | Cyparta               | May 2024 – Sep 2025 (Full-Time) | Built Django systems with WebSockets & GraphQL   |
