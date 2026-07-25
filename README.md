@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 + 🎯 Passionate about making a positive impact through technology.
 ```
 
-- 💼 Software Engineer at **WasteHero**, building complex systems using python.
-- 💼 Former Software Engineer at **Qowa**, building complex systems using python.
+- 💼 Senior Software Engineer at **Qowa**, building complex systems using python.
+- 💼 Former Software Engineer at **WasteHero**, building complex systems using python.
 - 💼 Former Software Engineer at **Mure Ai**, building scaleable automation platform.
 - 💼 Former Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
 - 💼 Former Software Engineer at **Elmadrasah**.   
@@ -26,8 +26,8 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 ## 💼 Work Experience  
 | **Role**                | **Organization**      | **Duration**        | **Highlights**                                    |
 |-------------------------|-----------------------|---------------------|--------------------------------------------------|
-| Software Engineer       | WasteHero               | Nov 2025 – Present (Full-Time) | Building complex systems using python   |
-| Software Engineer       | Qowa               | Apr 2025 – Apr 2026 (Part-Time) | Building complex systems   |
+| Software Engineer       | Qowa               | Apr 2025 – Present (Part-Time) | Building complex systems   |
+| Software Engineer       | WasteHero               | Nov 2025 – Jul 2026 (Full-Time) | Building complex systems using python   |
 | Software Engineer       | Mure Ai               | Sep 2025 – Oct 2025 (Contract) | Bulding a scalelable automation platform   |
 | Backend Developer       | Cyparta               | May 2024 – Sep 2025 (Full-Time) | Built Django systems with WebSockets & GraphQL   |
 | Software Engineer       | Elmadrasah            | Nov 2023 – Mar 2024 (Full-Time) | Developed an ed-tech platform using Flutter, Python, Node.js, and Firebase |
