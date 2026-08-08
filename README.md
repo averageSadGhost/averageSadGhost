@@ -15,7 +15,6 @@ Welcome to my GitHub! I'm passionate about building efficient software and teach
 
 - 💼 Senior Software Engineer at **Qowa**, building complex systems using python.
 - 💼 Former Software Engineer at **WasteHero**, building complex systems using python.
-- 💼 Former Software Engineer at **Mure Ai**, building scaleable automation platform.
 - 💼 Former Backend Developer at **Cyparta**, focusing on scalable backend solutions using Django.
 - 💼 Former Software Engineer at **Elmadrasah**.   
 - 👨‍🏫 Former instructor at **04Academy** and **Google Developer Student Club**.  
